@@ -1,0 +1,9 @@
+.settings
+MANIFEST.MF
+out
+target
+.idea
+/dist/
+/nbdist/
+.vscode/
+
